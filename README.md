@@ -6,7 +6,7 @@ Hi there! I'm Joy. I started my academic journey with a background in Economics 
  - 📊 **Data Analysis & Visualization**  
 Proficient in Python, R, Fortran, Stata, SPSS and SQL, with extensive experience in data cleaning, statistical analysis, and creating insightful visualizations to inform decision-making.​  
  - 🏦 **Finance & Energy Valuation**  
-Skilled in asset pricing, Real Estate Investment Trusts (REITs), and financial accounting, with a focus on energy sector valuations, including hydropower modeling and renewable energy assessments.​  
+​Skilled in asset pricing, macroeconomics, fixed income, Real Estate Investment Trusts (REITs), and financial accounting, with a specialized focus on energy sector valuations, including hydropower modeling and renewable energy assessments.​  
  - 📈 **Machine Learning & Causal Inference**  
 Experienced in regression analysis, time series forecasting, predictive modeling, and policy evaluation, applying machine learning techniques to derive actionable insights and assess causal relationships.​  
   
