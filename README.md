@@ -10,5 +10,5 @@ Skilled in asset pricing, Real Estate Investment Trusts (REITs), and financial a
  - 📈 **Machine Learning & Causal Inference**  
 Experienced in regression analysis, time series forecasting, predictive modeling, and policy evaluation, applying machine learning techniques to derive actionable insights and assess causal relationships.​  
   
-Feel free to take a look at my [resume] and to connect with me via [LinkedIn](https://www.linkedin.com/in/lepengwu2023/).
+Feel free to take a look at my [resume](https://xiaoxiguazi.github.io/XiaoXIguaZI/Resume_LepengWu(DA).pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/lepengwu2023/).  
 
