@@ -10,5 +10,6 @@ Proficient in Python, R, Fortran, Stata, SPSS and SQL, with extensive experience
  - 📈 **Machine Learning & Causal Inference**  
 Experienced in regression analysis, time series forecasting, predictive modeling, and policy evaluation, applying machine learning techniques to derive actionable insights and assess causal relationships.​  
   
-Feel free to take a look at my [resume](https://xiaoxiguazi.github.io/XiaoXIguaZI/Resume_LepengWu(DA).pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/lepengwu2023/).  
+Feel free to take a look at my [resume](https://xiaoxiguazi.github.io/XiaoXIguaZI/Resume_LepengWu(DA).pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/lepengwu2023/).   
 
+**You can see some of my work in the following repositories:**
