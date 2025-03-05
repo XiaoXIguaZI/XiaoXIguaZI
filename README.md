@@ -10,8 +10,8 @@ Proficient in Python, R, Fortran, Stata, SPSS and SQL, with extensive experience
 2024 CFA Challenge Gold Winner 🏅  
  - 👣 **Machine Learning & Causal Inference**  
 Experienced in regression analysis, time series forecasting, predictive modeling, and policy evaluation, applying machine learning techniques to derive actionable insights and assess causal relationships.​
- - 🏌️ **Sports**  
- Golf Referee, Chinese Golf Association | Representing China in the IML Walking Association
+ - 👣 **Sports**  
+ Golf Referee, Chinese Golf Association ⛳️ | Representing China in the IML Walking Association ⛰️
   
 Feel free to take a look at my [resume](https://xiaoxiguazi.github.io/XiaoXIguaZI/Resume_LepengWu(DA).pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/lepengwu2023/).   
 
